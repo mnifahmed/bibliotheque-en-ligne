@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "344730367461",
+    "project_id": "bibliotheque-institut",
+    "storage_bucket": "bibliotheque-institut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344730367461:android:3f072dcdd5b8e1232eab0c",
+        "android_client_info": {
+          "package_name": "com.example.bibliotheque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344730367461-o956ct0se85niapa45l5ti8r5c6ejub4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bibliotheque",
+            "certificate_hash": "ffc846e278c90d685dad267fe649d7a9b08dd1c7"
+          }
+        },
+        {
+          "client_id": "344730367461-nsdbj7fh8147ou7eijp0rgugot90eug3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh312UCXPAyD9uPUWqBBxnXZSR_fxHwFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344730367461-nsdbj7fh8147ou7eijp0rgugot90eug3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344730367461-7hlp1phljt7lll2gak0bh9a3uk95qjqc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bibliotheque"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
